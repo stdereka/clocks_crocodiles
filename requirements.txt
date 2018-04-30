@@ -1,0 +1,5 @@
+sklearn==0.0
+opencv-python==3.4.0.12
+numpy==1.14.2
+theano==0.8.2
+lasagne==0.2.dev1
