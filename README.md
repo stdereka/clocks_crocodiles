@@ -45,6 +45,7 @@
 Удовлетворить зависимости:
 
     pip3 install -r requirements.txt
+    pip3 install --upgrade https://github.com/Lasagne/Lasagne/archive/master.zip
 
 Запустить скрипт и ждать завершения процесса (скрипт говорящий):
 
